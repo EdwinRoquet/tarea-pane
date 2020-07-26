@@ -1,0 +1,10 @@
+admin@correo.com   
+123
+
+lola@correo.com
+123 usuario comun
+
+
+
+usario de la db es root
+contraseña comillas vacias
